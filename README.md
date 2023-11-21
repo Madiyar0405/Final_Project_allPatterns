@@ -76,7 +76,7 @@ receiving data via the corresponding protocol.
 
 
 UML-diagram:
-![photo1700588749](https://github.com/Madiyar0405/Final_Project_allPatterns/assets/123325330/a574e3e3-043a-4e9f-8c48-5bc3069a31f3)
+![photo1700597145](https://github.com/Madiyar0405/Final_Project_allPatterns/assets/123325330/9d4e8cf6-ca8d-4388-994f-5c1cb2859e1f)
 
 
 
